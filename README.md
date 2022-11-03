@@ -1,5 +1,7 @@
 # Resume
-HTML/CSS/JavaScript Resume
+## Steps
+### Click on "View Code"
+### Click on the 1st file.
 
 I am working on this project on a local machine. I have not uploaded it yet.
 
